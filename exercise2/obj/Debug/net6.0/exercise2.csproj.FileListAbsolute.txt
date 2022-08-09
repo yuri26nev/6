@@ -1,0 +1,15 @@
+D:\User\Documents\geekbrains.ru\семинар\6\exercise2\bin\Debug\net6.0\exercise2.exe
+D:\User\Documents\geekbrains.ru\семинар\6\exercise2\bin\Debug\net6.0\exercise2.deps.json
+D:\User\Documents\geekbrains.ru\семинар\6\exercise2\bin\Debug\net6.0\exercise2.runtimeconfig.json
+D:\User\Documents\geekbrains.ru\семинар\6\exercise2\bin\Debug\net6.0\exercise2.dll
+D:\User\Documents\geekbrains.ru\семинар\6\exercise2\bin\Debug\net6.0\exercise2.pdb
+D:\User\Documents\geekbrains.ru\семинар\6\exercise2\obj\Debug\net6.0\exercise2.csproj.AssemblyReference.cache
+D:\User\Documents\geekbrains.ru\семинар\6\exercise2\obj\Debug\net6.0\exercise2.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Documents\geekbrains.ru\семинар\6\exercise2\obj\Debug\net6.0\exercise2.AssemblyInfoInputs.cache
+D:\User\Documents\geekbrains.ru\семинар\6\exercise2\obj\Debug\net6.0\exercise2.AssemblyInfo.cs
+D:\User\Documents\geekbrains.ru\семинар\6\exercise2\obj\Debug\net6.0\exercise2.csproj.CoreCompileInputs.cache
+D:\User\Documents\geekbrains.ru\семинар\6\exercise2\obj\Debug\net6.0\exercise2.dll
+D:\User\Documents\geekbrains.ru\семинар\6\exercise2\obj\Debug\net6.0\refint\exercise2.dll
+D:\User\Documents\geekbrains.ru\семинар\6\exercise2\obj\Debug\net6.0\exercise2.pdb
+D:\User\Documents\geekbrains.ru\семинар\6\exercise2\obj\Debug\net6.0\exercise2.genruntimeconfig.cache
+D:\User\Documents\geekbrains.ru\семинар\6\exercise2\obj\Debug\net6.0\ref\exercise2.dll

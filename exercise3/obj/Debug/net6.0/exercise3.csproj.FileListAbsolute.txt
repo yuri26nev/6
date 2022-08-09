@@ -1,0 +1,15 @@
+D:\User\Documents\geekbrains.ru\семинар\6\exercise3\bin\Debug\net6.0\exercise3.exe
+D:\User\Documents\geekbrains.ru\семинар\6\exercise3\bin\Debug\net6.0\exercise3.deps.json
+D:\User\Documents\geekbrains.ru\семинар\6\exercise3\bin\Debug\net6.0\exercise3.runtimeconfig.json
+D:\User\Documents\geekbrains.ru\семинар\6\exercise3\bin\Debug\net6.0\exercise3.dll
+D:\User\Documents\geekbrains.ru\семинар\6\exercise3\bin\Debug\net6.0\exercise3.pdb
+D:\User\Documents\geekbrains.ru\семинар\6\exercise3\obj\Debug\net6.0\exercise3.csproj.AssemblyReference.cache
+D:\User\Documents\geekbrains.ru\семинар\6\exercise3\obj\Debug\net6.0\exercise3.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Documents\geekbrains.ru\семинар\6\exercise3\obj\Debug\net6.0\exercise3.AssemblyInfoInputs.cache
+D:\User\Documents\geekbrains.ru\семинар\6\exercise3\obj\Debug\net6.0\exercise3.AssemblyInfo.cs
+D:\User\Documents\geekbrains.ru\семинар\6\exercise3\obj\Debug\net6.0\exercise3.csproj.CoreCompileInputs.cache
+D:\User\Documents\geekbrains.ru\семинар\6\exercise3\obj\Debug\net6.0\exercise3.dll
+D:\User\Documents\geekbrains.ru\семинар\6\exercise3\obj\Debug\net6.0\refint\exercise3.dll
+D:\User\Documents\geekbrains.ru\семинар\6\exercise3\obj\Debug\net6.0\exercise3.pdb
+D:\User\Documents\geekbrains.ru\семинар\6\exercise3\obj\Debug\net6.0\exercise3.genruntimeconfig.cache
+D:\User\Documents\geekbrains.ru\семинар\6\exercise3\obj\Debug\net6.0\ref\exercise3.dll
